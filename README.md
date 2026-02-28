@@ -21,7 +21,22 @@ Task board and issue tracking for Duet Company development.
 
 ## 🏃 Sprint Management
 
-### Current Sprint: Sprint 1 (Weeks 1-2)
+### Current Sprint: Sprint 2 (Weeks 3-4)
+**Goal:** Core Platform & AI Agent Development
+
+#### Tasks (Week 3 - Core Platform Development)
+- [ ] #9 Implement database models and migrations
+- [ ] #10 Create API endpoints stubs for core functionality
+- [ ] #11 Setup AI agent framework base
+- [ ] #12 Connect to LLM providers (Claude, GPT-4, GLM-5)
+
+#### Tasks (Week 4 - AI Agent Integration)
+- [ ] #13 Build Query Agent (NL → SQL) prototype
+- [ ] #14 Implement natural language interface
+- [ ] #15 Integrate agents with backend API
+- [ ] #16 Testing and validation
+
+### Previous Sprint: Sprint 1 (Weeks 1-2)
 **Goal:** Foundation and Infrastructure Setup
 
 #### Tasks
@@ -34,8 +49,8 @@ Task board and issue tracking for Duet Company development.
 - [x] #7 Create CI/CD pipelines
 - [x] #8 Complete backend authentication
 
-### Next Sprint: Sprint 2 (Weeks 3-4)
-**Goal:** MVP Development
+### Next Sprint: Sprint 3 (Weeks 5-6)
+**Goal:** Platform Designer Agent & Query Agent Enhancements
 
 ## 🏷️ Labels
 
@@ -76,12 +91,9 @@ Task board and issue tracking for Duet Company development.
 
 ## 🔗 Project Links
 
-- **Platform:** https://github.com/duet-company/platform
-- **Backend:** https://github.com/duet-company/backend
-- **Frontend:** https://github.com/duet-company/frontend
-- **Infrastructure:** https://github.com/duet-company/infrastructure
-- **Docs:** https://github.com/duet-company/docs
+- **Company Monorepo:** https://github.com/duet-company/company
 - **Vision:** https://github.com/duet-company/vision
+- **Kanboard:** https://github.com/duet-company/kanboard
 
 ## 🚀 Workflow
 
@@ -184,8 +196,13 @@ When should this be completed?
 - Tasks completed: 4/8
 - Blocked: 0
 
+### Week 3 (Mar 3-9) - SPRINT 2 STARTED
+- Tasks started: 0/8
+- Tasks completed: 0/8
+- Blocked: 0
+
 ---
 
 **Maintainer:** Engineering Team
 **Sprint Duration:** 2 weeks
-**Next Planning:** [Date]
+**Next Planning:** Mar 17, 2026
