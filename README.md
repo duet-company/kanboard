@@ -31,9 +31,9 @@ Task board and issue tracking for Duet Company development.
 - [ ] #12 Connect to LLM providers (Claude, GPT-4, GLM-5)
 
 #### Tasks (Week 4 - AI Agent Integration)
-- [ ] #13 Build Query Agent (NL → SQL) prototype
-- [ ] #14 Implement natural language interface
-- [ ] #15 Integrate agents with backend API
+- [x] #13 Build Query Agent (NL → SQL) prototype
+- [x] #14 Implement natural language interface
+- [🔄] #15 Integrate agents with backend API (PR #4 - stubs created, awaiting merge)
 - [ ] #16 Testing and validation
 
 ### Previous Sprint: Sprint 1 (Weeks 1-2)
@@ -197,7 +197,7 @@ When should this be completed?
 - Blocked: 0
 
 ### Week 3 (Mar 3-9) - SPRINT 2 STARTED
-- Tasks started: 0/8
+- Tasks started: 1/8 (Issue #15 - PR created)
 - Tasks completed: 0/8
 - Blocked: 0
 
